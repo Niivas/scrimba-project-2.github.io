@@ -38,7 +38,7 @@
 body {
 
 
-    --background-image: var(--sparkle);
+    --background-image: var(--nightsky);
     
 
     --main-color: var(--snow);
@@ -56,6 +56,6 @@ body {
 
 
 .img {
-    border-image: var(--nightsky) 100;;
+    border-image: var(--sunset) 100;;
 }
 
