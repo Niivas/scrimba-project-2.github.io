@@ -1,1 +1,0 @@
- A basic react project that displays anime images by fetching from unsplash.
