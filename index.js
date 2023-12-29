@@ -24,7 +24,7 @@ const App = (props) => {
   let [query, setQuery] = useState("Anime");
   const queryInput = useRef(null);
 
-  const numberOfPhotos = 20;
+  const numberOfPhotos = 25;
   const url =
     "https://api.unsplash.com/photos/random/?count=" +
     numberOfPhotos +
